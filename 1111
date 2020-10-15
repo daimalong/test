@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="./李牛网.css">
+<body>
+    <div class="wraper">
+        <div class="head">
+            <div class="w960">
+                <div class="logo">
+                    <img src="../练习/images/logo.png" alt="">
+                </div>
+                <div class="phone">
+                    <img src="../练习/images/phone.png" alt="">
+                    <p>财富热线<br>
+                        18825039863
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="nav w960">
+
+            <ul>
+                <Li style="color: #ec6b25;"><a href=""></a>首页</Li>
+                <Li><a href=""></a>首页</Li>
+                <Li><a href=""></a>关于厉牛</Li>
+                <Li><a href=""></a>行业资讯</Li>
+                <Li><a href=""></a>主要业务</Li>
+                <Li><a href=""></a>安全保障</Li>
+            </ul>
+        </div>
+        <div class="banner w960">
+                <img src="./niu.jpg" alt="">
+        </div>
+        <div class="content w960">
+               <div class="c_1">
+                   <div class="c_1_i"><img src="./小图标.jpg" alt=""></div>
+                   <div class="c_1_c">
+                   <h3>稳定高利益</h3>
+                   <p>40倍银行活期存款利息</p>
+                   <p>100元起投，交易0手续费</p>
+                   </div>
+               </div>
+               <div class="c_2">
+                <div class="c_2_i"><img src="./小图标.jpg" alt=""></div>
+                <div class="c_2_c">
+                <h3>稳定高利益</h3>
+                <p>40倍银行活期存款利息</p>
+                <p>100元起投，交易0手续费</p>
+                </div>
+            </div>
+            <div class="c_3">
+                <div class="c_3_i"><img src="./小图标.jpg" alt=""></div>
+                <div class="c_3_c">
+                <h3>稳定高利益</h3>
+                <p>40倍银行活期存款利息</p>
+                <p>100元起投，交易0手续费</p>
+                </div>
+            </div>
+        </div>
+        <div class="product w960">
+            <h2>主要业务<span>/product services</span></h2>
+            <div class="pr_c_1">
+                <img src="./投资业务.jpg" alt="">
+                <h4>投资业务</h4>
+               <p> 证券投资业务指的是银行购买有价值的证券活动</p>
+                <a href=""><img src="./立即咨询.jpg" alt=""></a>
+            </div>
+            <div class="pr_c_2">
+                <img src="./投资业务.jpg" alt="">
+                <h4>投资业务</h4>
+                <p>证券投资业务指的是银行购买有价值的证券活动</p>
+                <a href=""><img src="./立即咨询.jpg" alt=""></a>
+            </div>
+            <div class="pr_c_3">
+                <img src="./投资业务.jpg" alt="">
+                <h4>投资业务</h4>
+                <p>证券投资业务指的是银行购买有价值的证券活动</p>
+                <a href=""><img src="./立即咨询.jpg" alt=""></a>
+            </div>
+            <div class="pr_c_4">
+                <img src="./投资业务.jpg" alt="">
+                <h4>投资业务</h4>
+                <p>证券投资业务指的是银行购买有价值的证券活动</p>
+                <a href=""><img src="./立即咨询.jpg" alt=""></a>
+            </div>
+        </div>
+        <div class="about w960">
+            <div class="about_content">
+                <h4>关于我们</h4>
+                <p>厉牛金融有限公司在1991年成立的爱红保险公司的基础上组建的 金融集团公司，总部设在上海，以推动可持续发展为经营理念</p>
+            </div>
+        </div>
+        <div class="news w960">
+             <div class="news_l">
+                 <h3>新闻资讯<span>/NEWS</span></h3>
+                 <div class="news_l_1">
+                     <img src="./理财小猪.jpg" alt="">
+                     <ul>
+                         <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                         <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                         <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                         <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                     </ul>
+                 </div>
+                 <div class="news_l_2">
+                    <img src="./理财小猪.jpg" alt="">
+                    <ul>
+                        <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                        <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                        <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                        <li>证监会：分级基金投资者们...<span>2016-11-29</span></li>
+                    </ul>
+                </div>
+             </div>
+             <div class="news_2">
+                 <h3>常见问题<span>/QAQ</span></h3>
+                 <dl>
+                     <dt>个人征信记录要注意哪些
+                         <dd>个人信息，证件，证件号码</dd>
+                     </dt>
+                 </dl>
+                 <dl>
+                    <dt>个人征信记录要注意哪些
+                        <dd>个人信息，证件，证件号码</dd>
+                    </dt>
+                </dl>
+                <dl>
+                    <dt>个人征信记录要注意哪些
+                        <dd>个人信息，证件，证件号码</dd>
+                    </dt>
+                </dl>
+             </div>
+        </div>
+        <div class="cooperate w960">
+            <h4>合作机构</h4>
+            <ul>
+                <li><a class="jiashi" href="">abc</a></li>
+                <li><a class="huaxia" href="">abc</a></li>
+                <li><a class="haifu" href="">abc</a></li>
+                <li><a class="huaxia" href="">abc</a></li>
+                <li class="last"><a class="zhongyou" href="">abc</a></li>
+                <li><a class="huaan" href="">abc</a></li>
+                <li><a class="jianxin" href="">abc</a></li>
+                <li><a class="zhaoshang" href="">abc</a></li>
+                <li><a class="nanfang" href="">abc</a></li>
+                <li class="last"><a class="dongfang" href="">abc</a></li>
+            </ul>
+        </div>
+        <div class="contact w960">
+            <!-- <div class="us">
+                <h5>联系我们</h5>
+                <p>地址：广州市海珠区苏州街18号F栋三单元3A02</p>
+                <p>邮编：510000</p>
+                <p>邮件：2383003879@qq.com</p>
+            </div>
+            <div class="hotline">
+                <h5>客服热线</h5>
+            </div> -->
+            <dl>
+                <dt>联系我们
+                    <dd><a href="">地址：广州市海珠区苏州街18号F栋三单元3A02</a></dd>
+                    <dd><a href="">邮编：510000</a></dd>
+                    <dd><a href="">邮件：2383003879@qq.com</a></dd>
+                </dt>
+            </dl>
+            <dl>
+                <dt>客服热线
+                    <dd>18825039863</dd>
+                    <dd>（工作时间9：00-21:00）</dd>
+                    <dd>
+                        <a class="wb" href="">wb</a>
+                        <a class="wx" href="">wx</a>
+                        <a class="phone" href="">phone</a>
+                        <a class="android" href="">android</a>
+                    </dd>
+                </dt>
+            </dl>
+            <dl>
+                <dt>商家服务
+                    <dd><a href="">商家入驻</a></dd>
+                    <dd><a href="">商家入驻</a></dd>
+                    <dd><a href="">商家入驻</a></dd>
+                    <dd><a href="">商家入驻</a></dd>
+                </dt>
+            </dl>
+            <dl class="last">
+                <dt>帮助中心
+                    <dd><a href="">商家入驻</a></dd>
+                    <dd><a href="">商家入驻</a></dd>
+                    <dd><a href="">商家入驻</a></dd>
+                    <dd><a href="">商家入驻</a></dd>
+                </dt>
+            </dl>
+        </div>
+        <div class="foot w960">
+            <p>&copy;2020 Baidu</p>
+            <p>本站使用html和css搭建</p>
+        </div>
+    </div>
+
+</body>
+</html>
